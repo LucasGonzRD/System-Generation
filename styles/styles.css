@@ -1,14 +1,20 @@
+*{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+
 .fPopi{
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
 }
 
-.fPopi2{
-  font-family: 'Poppins', sans-serif;
-  font-weight: 400;
-}
-
-.fPopi3{
+.fPopiSec{
   font-family: 'Poppins', sans-serif;
   font-weight: 100;
+}
+
+.imgConf{
+  width: 900px;
+  height: 600px;
+  overflow: hidden;
 }
