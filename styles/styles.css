@@ -11,8 +11,20 @@
   font-weight: 100;
 }
 
-.imgConf{
+.imgConf1{
   width: 900px;
   height: 600px;
   overflow: hidden;
 }
+
+.imgConf2{
+  width: 100%;
+  height: auto;
+  max-height: 300px;
+  clip-path: polygon(0 0, 100% 0, 100% 85%, 0 85%);
+  transform: scaleX(10);
+ }
+
+ .texCent{
+  text-align: center;
+ }
